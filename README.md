@@ -1,2 +1,2 @@
 # Projects
-# OOPS concet
+# OOPS concept
