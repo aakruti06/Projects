@@ -1,0 +1,19 @@
+nano hi.cpp
+g++ hi,cpp -o hi
+./hi
+
+---------------------------------------
+
+cpp projects lists
+
+-----------------------
+basic_programs branch
+10 basic programs added
+
+
+------------------------
+inheritance branch
+
+
+
+------------------------
