@@ -18,12 +18,14 @@ int main()
 	int i,j;
 	for(i=0;i<5;i++)
 	{
-		for(j=1;j<5;j++)
+		for(j=i+1;j<5;j++)
 		{
 			if(a[i] == a[j])
 			{
-				break;
-			}
-		}
-	}
-	
+				cout<<"Duplicate element found at "<<i<<", "<<j<<endl;
+                        }
+                }
+        }
+        return 0;
+}
+
