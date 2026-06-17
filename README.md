@@ -6,7 +6,7 @@
 15 array programs added.
 
 **CLASS**
-5 programs added
+20 programs added
 
 **INHERITANCE**
 1 PROGRAM IN PROGRESS
