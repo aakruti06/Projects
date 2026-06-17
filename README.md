@@ -7,6 +7,7 @@
 
 **CLASS**
 20 programs added
+  class;constructor(default, parameterzied);destructor
 
 **INHERITANCE**
 1 PROGRAM IN PROGRESS
