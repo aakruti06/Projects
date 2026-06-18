@@ -10,6 +10,7 @@
   class;constructor(default, parameterzied,copy)
   destructor
   constructor overloading
+  CPP project class (defualt, parameterized, copy)
 
 **INHERITANCE**
 1 PROGRAM IN PROGRESS
