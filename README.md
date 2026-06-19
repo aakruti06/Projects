@@ -11,6 +11,9 @@
   destructor
   constructor overloading
   CPP project class (defualt, parameterized, copy)
+  
+  Student Mgmt System
+  Employee Mgmt System
 
 **INHERITANCE**
 1 PROGRAM IN PROGRESS
