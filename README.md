@@ -16,5 +16,6 @@
   Employee Mgmt System
 
 **INHERITANCE**
-1 PROGRAM IN PROGRESS
+4 basic
+1 Project - Student grade system
 
