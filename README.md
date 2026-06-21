@@ -16,6 +16,7 @@
   Employee Mgmt System
 
 **INHERITANCE**
-4 basic
+4 simple inheritance
 1 Project - Student grade system
-
+4 multi level inheritance
+1 Project - Shape-Rect/Sq - Box
