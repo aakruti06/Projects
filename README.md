@@ -24,3 +24,6 @@ Multiple 5 programs
 2 Hierarchical programs
 2 Hybrid inheritance - Diamond shape
 
+**POLYMORPHISM**
+5 Function overloading and function overriding programs
+5 Operator overloading programs
