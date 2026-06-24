@@ -22,4 +22,5 @@
 1 Project - Shape-Rect/Sq - Box
 Multiple 5 programs 
 2 Hierarchical programs
+2 Hybrid inheritance - Diamond shape
 
