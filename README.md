@@ -39,3 +39,4 @@ Multiple 5 programs
 
 **FILE HANDLING**
 10 basic programs -- read, store and sum of 2 numbers
+"5 append and 5 count line" program in progress
