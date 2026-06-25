@@ -37,3 +37,5 @@ Multiple 5 programs
 **STATIC**
 2 programs - variable, function
 
+**FILE HANDLING**
+10 basic programs -- read, store and sum of 2 numbers
