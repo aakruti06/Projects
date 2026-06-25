@@ -34,3 +34,6 @@ Multiple 5 programs
 **FRIEND FUNCTION**
 2 programs
 
+**STATIC**
+2 programs - variable, function
+
