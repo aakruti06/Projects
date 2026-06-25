@@ -27,3 +27,10 @@ Multiple 5 programs
 **POLYMORPHISM**
 5 Function overloading and function overriding programs
 5 Operator overloading programs
+
+**ABSTRACT CLASS**
+8 programs - virtual -- pure, inheritance, function
+
+**FRIEND FUNCTION**
+2 programs
+
