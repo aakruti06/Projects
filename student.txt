@@ -1,0 +1,30 @@
+Student   : 1
+Name      : AA
+Subject   1 : 91
+Subject   2 : 98
+Subject   3 : 95
+Subject   4 : 99
+Student   : 2
+Name      : BB
+Subject   1 : 97
+Subject   2 : 95
+Subject   3 : 93
+Subject   4 : 91
+Student   : 3
+Name      : CC
+Subject   1 : 98
+Subject   2 : 96
+Subject   3 : 94
+Subject   4 : 92
+Student   : 4
+Name      : DD
+Subject   1 : 99
+Subject   2 : 99
+Subject   3 : 99
+Subject   4 : 99
+Student   : 5
+Name      : EE
+Subject   1 : 98
+Subject   2 : 97
+Subject   3 : 95
+Subject   4 : 94

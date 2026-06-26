@@ -1,4 +1,0 @@
-Name          : Aakruti
-Designation   : Developer
-Experisnce    : 4
-Salary        : 120000
